@@ -8,4 +8,4 @@ second line
 # Файл crash.log
 # Файл с расширением *.tfvars
 # файл override.tf, override.tf.json и файлы имя которых заканчивается на _override.tf, _override.tf.json
-# файл .terraformrc, terraform.rc
+# файл .terraformrc, terraform.rcnew line 02.03
